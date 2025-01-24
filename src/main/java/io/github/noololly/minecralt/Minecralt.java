@@ -1,5 +1,6 @@
 package io.github.noololly.minecralt;
 
+import io.github.noololly.minecralt.entity.ModEntities;
 import net.fabricmc.api.ModInitializer;
 
 import net.minecraft.entity.EntityType;
@@ -21,5 +22,6 @@ public class Minecralt implements ModInitializer {
 		MINECRALT_LOGGER.info("Hello! Starting Minecralt!");
 		ModBlocks.initialize();
 		ModItems.initialize();
+		ModEntities.registerModEntities();
 	}
 }

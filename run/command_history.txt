@@ -1,7 +1,0 @@
-/fill ~ ~ ~ ~100 ~3 80 minecralt:cocoon
-/fill ~ ~ ~ ~100 ~3 75 minecralt:cocoon
-/fill ~ ~ ~ ~100 ~2 75 minecralt:cocoon
-/fill ~ ~ ~ ~75 ~2 75 minecralt:cocoon
-/fill ~ ~ ~ ~75 ~2 70 minecralt:cocoon
-/fill ~ ~ ~ ~75 ~2 60 minecralt:cocoon
-/fill ~ ~ ~ ~75 ~2 60 minecraft:air
